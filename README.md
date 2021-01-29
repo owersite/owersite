@@ -22,7 +22,3 @@
     <summary>:zap: GitHub Status (clickable)</summary>
   <img align="center" alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Owersite&show_icons=true&theme=default&hide_border=true" />
 </details>
-
-<!--
-[![Updated](https://badges.pufler.dev/updated/Owersite/Owersite?style=for-the-badge&color=f0f6f9&logo=github&label=Profile+Updated)](https://github.com/Owersite)
---!>
