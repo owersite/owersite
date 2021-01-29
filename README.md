@@ -3,7 +3,7 @@
 [![Stalkers:](https://badges.pufler.dev/visits/Owersite/Owersite?style=for-the-badge&color=e74c3c&logo=github&label=Stalkers)](https://github.com/owersite)
 ![Followers:](https://img.shields.io/github/followers/owersite?style=for-the-badge)
 
-😄 I am currently learning .NET Reverse Engineering
+😄 I am currently learning .NET Reverse Engineering & C#
 
 ### ✨ People that made repositories out of my ideas ✨
 1. https://github.com/eqwyz/discord-get-token
