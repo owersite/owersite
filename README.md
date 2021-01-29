@@ -6,5 +6,5 @@
 --!>
 
 ### People that made repositories out of my ideas:
-1. https://github.com/eqwyz/discord-get-token
-2. https://github.com/flowitoo/hackthebox-invite-generator
+# https://github.com/eqwyz/discord-get-token
+# https://github.com/flowitoo/hackthebox-invite-generator
