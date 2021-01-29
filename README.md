@@ -3,7 +3,7 @@
 ![Discord ID](https://img.shields.io/badge/Discord-Owersite%237777-blue?style=for-the-badge)
 
 
-### People that made repositories out of my ideas:
+### ✨ People that made repositories out of my ideas ✨
 1. https://github.com/eqwyz/discord-get-token
 2. https://github.com/flowitoo/hackthebox-invite-generator
 
