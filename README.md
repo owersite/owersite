@@ -6,6 +6,7 @@
 ![Commits Badge](https://badges.pufler.dev/commits/yearly/owersite)
 ![Repos Badge](https://badges.pufler.dev/repos/owersite)
 
+😄 I am currently learning .NET Reverse Engineering
 
 ### ✨ People that made repositories out of my ideas ✨
 1. https://github.com/eqwyz/discord-get-token
