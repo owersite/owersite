@@ -4,7 +4,7 @@
 ![Followers:](https://img.shields.io/github/followers/owersite?style=for-the-badge)
 ![Discord](https://img.shields.io/badge/Discord-Owersite%237777-blue?style=for-the-badge)
 ![Commits Badge](https://badges.pufler.dev/commits/yearly/owersite)
-
+![Repos Badge](https://badges.pufler.dev/repos/owersite)
 
 
 ### ✨ People that made repositories out of my ideas ✨
