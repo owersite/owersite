@@ -1,6 +1,6 @@
 [![Spying Counter](https://badges.pufler.dev/visits/Owersite/Owersite?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter)](https://github.com/owersite)
 ![GitHub followers](https://img.shields.io/github/followers/owersite?style=for-the-badge)
-
+![Discord ID](https://img.shields.io/badge/Discord-Owersite%237777-blue?style=for-the-badge)
 
 
 
