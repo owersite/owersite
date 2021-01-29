@@ -2,8 +2,6 @@
 
 [![Stalkers:](https://badges.pufler.dev/visits/Owersite/Owersite?style=for-the-badge&color=e74c3c&logo=github&label=Stalkers)](https://github.com/owersite)
 ![Followers:](https://img.shields.io/github/followers/owersite?style=for-the-badge)
-![Discord](https://img.shields.io/badge/Discord-Owersite%237777-blue?style=for-the-badge)
-
 
 😄 I am currently learning .NET Reverse Engineering
 
