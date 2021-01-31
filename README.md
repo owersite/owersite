@@ -1,6 +1,5 @@
 <h1 align="center">Hi 💻, i am Owersite!</h1>
 
-[![Stalkers:](https://badges.pufler.dev/visits/Owersite/Owersite?style=for-the-badge&color=blue&logo=github&label=Stalkers)](https://github.com/owersite)
 ![Followers:](https://img.shields.io/github/followers/owersite?style=for-the-badge&color=blue)
 
 😄 I am currently learning Reverse Engineering & C#
