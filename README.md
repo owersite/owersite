@@ -1,6 +1,6 @@
 <h1 align="center">Hi 💻, i am Owersite!</h1>
 
-![Followers:](https://img.shields.io/github/followers/owersite?style=for-the-badge&color=blue) ![Discord ID](https://img.shields.io/badge/Discord-Owersite%237777-blue?style=for-the-badge) [![Updated](https://badges.pufler.dev/updated/Owersite/Owersite?style=for-the-badge&color=f0f6f9&logo=github&label=Profile+Updated)](https://github.com/Owersite)
+![Followers:](https://img.shields.io/github/followers/owersite?style=for-the-badge&color=blue) ![Discord ID](https://img.shields.io/badge/Discord-Owersite%237777-blue?style=for-the-badge) [![Updated](https://badges.pufler.dev/updated/Owersite/Owersite?style=for-the-badge&color=blue&logo=github&label=Profile+Updated)](https://github.com/Owersite)
 
 
 
