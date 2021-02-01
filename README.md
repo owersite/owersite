@@ -1,8 +1,7 @@
 <h1 align="center">Hi 💻, i am Owersite!</h1>
 
 ![Followers:](https://img.shields.io/github/followers/owersite?style=for-the-badge&color=blue)
-[Discord ID](https://img.shields.io/badge/Discord-Owersite%237777-blue?style=for-the-badge)
-[![Updated](https://badges.pufler.dev/updated/owersite/owersite?style=for-the-badge&color=blue&logo=github&label=Profile+Updated)](https://github.com/Owersite)
+[Discord ID](https://img.shields.io/badge/Discord-Мрак%230821-blue?style=for-the-badge)
 
 😄 I am currently learning Reverse Engineering & C#
 
