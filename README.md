@@ -13,7 +13,7 @@
 
 
 My favorite meme:
-## ![meme](niggito_meme.jpg)
+![meme](niggito_meme.jpg)
 <details>
   <summary>:zap: GitHub Profile Info (clickable) </summary>
   <h1 align="center">Profile Status</h1>
