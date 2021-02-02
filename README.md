@@ -25,4 +25,4 @@
 </details>
 
 My favorite meme:
-## ![meme 🤟](niggito.png)
+## ![meme 🤟](niggito.jpg)
