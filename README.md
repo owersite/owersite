@@ -25,5 +25,3 @@
 </details>
 
 My favorite meme:
-![meme](niggito.jpg)
-## ![Welcome to my profile 🤟](header.png)
