@@ -12,8 +12,6 @@
 2. https://github.com/flowitoo/hackthebox-invite-generator
 
 
-My favorite meme:
-![meme](niggito_meme.jpg)
 <details>
   <summary>:zap: GitHub Profile Info (clickable) </summary>
   <h1 align="center">Profile Status</h1>
