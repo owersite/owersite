@@ -23,6 +23,6 @@
   
   <details>
     <summary>:zap: GitHub Status (clickable)</summary>
-  <img align="center" alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Owersite&show_icons=true&theme=default&hide_border=true" />
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Owersite&show_icons=true&theme=default&hide_border=true" />
 </details>
 
