@@ -1,5 +1,5 @@
 
-<img src="icon.png" align="right" />
+<img src="icon.png" align="bottom-right" />
 
 <h1 align="center"
 
