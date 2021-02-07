@@ -1,6 +1,6 @@
 <h1 align="center">Hi 💻, i am Owersite!</h1>
 
-![Stalkers Counter](https://badges.pufler.dev/visits/Owersite/Owersite?style=for-the-badge&color=e74c3c&logo=github&label=Stalkers+Counter)
+![Stalkers Counter](https://badges.pufler.dev/visits/Owersite/Owersite?style=for-the-badge&color=blue&logo=github&label=Stalkers+Counter)
 ![Followers:](https://img.shields.io/github/followers/owersite?style=for-the-badge&color=blue) ![Discord ID](https://img.shields.io/badge/Discord-Owersite%237777-blue?style=for-the-badge) 
 
 
