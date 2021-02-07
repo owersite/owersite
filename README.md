@@ -18,7 +18,7 @@
   <h1 align="center">Profile Status</h1>
   <details>
     <summary>:zap: Languages (clickabe) </summary>
-  <img align="center" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owersite&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)" />
+  <img align="center" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owersite&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" />
     </details>
   
   <details>
