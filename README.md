@@ -1,5 +1,4 @@
 
-<img src="icon.png" align="bottom-right" />
 
 <h1 align="center"
 
@@ -20,6 +19,7 @@
 > https://github.com/eqwyz/discord-get-token
 
 > https://github.com/flowitoo/hackthebox-invite-generator
+<img src="icon.png" align="right" />
 
 
 <details>
