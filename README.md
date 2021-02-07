@@ -1,6 +1,6 @@
 <h1 align="center">Hi 💻, i am Owersite!</h1>
 
-[![Spying Counter](https://badges.pufler.dev/visits/Owersite/0x11DFE?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter)](https://github.com/Owersite)
+![Spying Counter](https://badges.pufler.dev/visits/Owersite/0x11DFE?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter)
 ![Followers:](https://img.shields.io/github/followers/owersite?style=for-the-badge&color=blue) ![Discord ID](https://img.shields.io/badge/Discord-Owersite%237777-blue?style=for-the-badge) 
 
 
