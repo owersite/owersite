@@ -18,9 +18,9 @@
 
 
 ### 💸 People that made repositories out of my ideas 💸
-> https://github.com/eqwyz/discord-get-token
+- https://github.com/eqwyz/discord-get-token
 
-> https://github.com/flowitoo/hackthebox-invite-generator
+- https://github.com/flowitoo/hackthebox-invite-generator
 
 
 <details>
