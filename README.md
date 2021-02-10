@@ -14,6 +14,7 @@
 ![Stalkers Counter](https://badges.pufler.dev/visits/Owersite/Owersite?style=for-the-badge&color=red&logo=github&label=Stalkers+Counter)
 ![Followers:](https://img.shields.io/github/followers/owersite?style=for-the-badge&color=red)
 
+You may find me on:
 ###### Discord: Owersite#7777 | owersite#4433
 
 
