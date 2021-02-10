@@ -12,8 +12,9 @@
 ### ✨ I am currently learning C# and Reverse Engineering, i find Reverse Engineering magical. ✨
 
 ![Stalkers Counter](https://badges.pufler.dev/visits/Owersite/Owersite?style=for-the-badge&color=red&logo=github&label=Stalkers+Counter)
-![Followers:](https://img.shields.io/github/followers/owersite?style=for-the-badge&color=red) ![Discord ID](https://img.shields.io/badge/Discord-Owersite%237777-red?style=for-the-badge) 
+![Followers:](https://img.shields.io/github/followers/owersite?style=for-the-badge&color=red)
 
+### Discord: Owersite#7777 | owersite#4433
 
 ### 💸 People that made repositories out of my ideas 💸
 > https://github.com/eqwyz/discord-get-token
