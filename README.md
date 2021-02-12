@@ -6,7 +6,7 @@
 >Hi 💻, i am Owersite!
 
 ![Owersite](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-<br><a href="http://owersite.ga/">Portfolio Website</a>
+<br><a href="https://owersite.github.io/portfolio/">Portfolio Website</a>
 </h1> 
 
 ### ✨ I am currently learning C# and Reverse Engineering, i find Reverse Engineering magical. ✨
