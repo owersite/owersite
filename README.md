@@ -15,7 +15,7 @@
 ![Followers:](https://img.shields.io/github/followers/owersite?style=for-the-badge&color=red)
 
 ###### Discord: Owersite#7777 | owersite#4433
-
+###### Telegram: @owersite
 
 ### 💸 People that made repositories out of my ideas 💸
 - https://github.com/eqwyz/discord-get-token
