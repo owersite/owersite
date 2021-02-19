@@ -10,7 +10,8 @@
 <a href="https://owersite.github.io/portfolio/">Portfolio Website</a>
 </h1> 
 
-### ✨ I am currently learning C# and Reverse Engineering, i find Reverse Engineering magical. ✨
+### ✨ I know C# and Reverse Engineering, i find Reverse Engineering magical. ✨
+### I started learning Python!
 
 ![Stalkers Counter](https://badges.pufler.dev/visits/Owersite/Owersite?style=for-the-badge&color=red&logo=github&label=Stalkers+Counter)
 ![Followers:](https://img.shields.io/github/followers/owersite?style=for-the-badge&color=red)
