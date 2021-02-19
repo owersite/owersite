@@ -5,9 +5,9 @@
 
 >Hi 💻, i am Owersite!
 
-![Owersite](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-<a href="https://owersite.github.io/portfolio/">Portfolio Website</a>
+
+![Owersite](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) <a href="https://owersite.github.io/portfolio/">Portfolio Website</a>
 </h1> 
 
 ### ✨ I know C# and Reverse Engineering, i find Reverse Engineering magical. ✨
