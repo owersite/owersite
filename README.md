@@ -13,8 +13,7 @@
 ### ✨ I know C# and Reverse Engineering, i find Reverse Engineering magical. ✨
 #### 🌴 I started learning Python! 🌴
 
-![Stalkers Counter](https://badges.pufler.dev/visits/Owersite/Owersite?style=for-the-badge&color=red&logo=github&label=Stalkers+Counter)
-![Followers:](https://img.shields.io/github/followers/owersite?style=for-the-badge&color=red)
+
 
 ###### Discord: Owersite#8080 | owersite#4433
 ###### Telegram: @owersite
@@ -23,6 +22,10 @@
 - https://github.com/eqwyz/discord-get-token
 
 - https://github.com/flowitoo/hackthebox-invite-generator
+
+
+![Stalkers Counter](https://badges.pufler.dev/visits/Owersite/Owersite?style=for-the-badge&color=red&logo=github&label=Stalkers+Counter)
+![Followers:](https://img.shields.io/github/followers/owersite?style=for-the-badge&color=red)
 
 
 <details>
