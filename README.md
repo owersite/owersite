@@ -18,14 +18,21 @@
 ###### Discord: Owersite#8080 | owersite#4433
 ###### Telegram: @owersite
 
+
+
+
+
+
+
+![Stalkers Counter](https://badges.pufler.dev/visits/Owersite/Owersite?style=for-the-badge&color=red&logo=github&label=Stalkers+Counter)
+![Followers:](https://img.shields.io/github/followers/owersite?style=for-the-badge&color=red)
+
+
 ### 💸 People that made repositories out of my ideas 💸
 - https://github.com/eqwyz/discord-get-token
 
 - https://github.com/flowitoo/hackthebox-invite-generator
 
-
-![Stalkers Counter](https://badges.pufler.dev/visits/Owersite/Owersite?style=for-the-badge&color=red&logo=github&label=Stalkers+Counter)
-![Followers:](https://img.shields.io/github/followers/owersite?style=for-the-badge&color=red)
 
 
 <details>
