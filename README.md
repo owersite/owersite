@@ -15,7 +15,7 @@
 
 
 
-###### Discord: Owersite#8080 | owersite#4433
+###### Discord: Owersite#0808 | owersite#4433
 ###### Telegram: @owersite
 
 
