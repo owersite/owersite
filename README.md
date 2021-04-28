@@ -36,7 +36,14 @@ Welcome to my github profile!
 
 ![Stalkers Counter](https://badges.pufler.dev/visits/Owersite/Owersite?style=for-the-badge&color=red&logo=github&label=Stalkers+Counter)
 ![Followers:](https://img.shields.io/github/followers/owersite?style=for-the-badge&color=red)
-
+![Repositories](https://badges.pufler.dev/repos/owersite?style=for-the-badge&logo=elixir&logoColor=9b59b6&color=9b59b6&cacheSeconds=3600)
+<a href="https://github.com/owersite?tab=repositories">
+      <img src="https://badges.pufler.dev/repos/flowitoo?style=for-the-badge&logo=elixir&logoColor=9b59b6&color=9b59b6&cacheSeconds=3600" alt="Repos"/>
+    </a>
+    <a href="https://github.com/flowitoo">
+      <img src="https://img.shields.io/github/stars/flowitoo?color=9b59b6&logo=elixir&logoColor=9b59b6&style=for-the-badge&cacheSeconds=3600" alt="Stars"/>
+    </a>
+    
 ###### Discord: Owersite#0808 | owersite#4433
 ###### Telegram: @owersite
 
