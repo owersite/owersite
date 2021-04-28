@@ -10,7 +10,7 @@ Welcome to my github profile!
 </h1>
 
 
-```python
+```cs
 ✨ I know C-SHARP and .NET Reverse Engineering, i find Reverse Engineering magical. ✨
 🌴 I started learning Python! 🌴
 ```
