@@ -1,7 +1,7 @@
 <h1 align="center"
 
 
-```cs
+```python
 Welcome to my github profile!
 ```
 
