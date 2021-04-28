@@ -4,7 +4,7 @@
 <div align="center">
  
 ```python
-Hello! My name is Owersite. Welcome to my github profile!
+Welcome to my github profile!
 ```
 
 </div>
