@@ -1,4 +1,3 @@
-<h1 align="center"
 
 
 ```python
@@ -52,4 +51,3 @@ Welcome to my github profile!
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=owersite&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&show_icons=true" />
 </details>
 
-</h1>
