@@ -32,8 +32,6 @@
 ![Stalkers Counter](https://badges.pufler.dev/visits/Owersite/Owersite?style=for-the-badge&color=red&logo=github&label=Stalkers+Counter)
 ![Followers:](https://img.shields.io/github/followers/owersite?style=for-the-badge&color=red)
 
-<a href="https://github.com/owersite">
-      <img src="https://badges.pufler.dev/visits/owersite/owersite?style=for-the-badge&logo=elixir&logoColor=9b59b6&color=9b59b6&label=profile+visits&cacheSeconds=3600" alt="Visits"/>
 
 
 <details>
