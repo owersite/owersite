@@ -19,7 +19,7 @@
 
 
 ```python
-✨ I know C# and .NET Reverse Engineering, i find Reverse Engineering magical. ✨
+✨ I know C-SHARP and .NET Reverse Engineering, i find Reverse Engineering magical. ✨
 🌴 I started learning Python! 🌴
 ```
 
