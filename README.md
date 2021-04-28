@@ -30,7 +30,7 @@
 - https://github.com/flowitoo/hackthebox-invite-generator
 
 ![Stalkers Counter](https://badges.pufler.dev/visits/Owersite/Owersite?style=for-the-badge&color=red&logo=github&label=Stalkers+Counter)
-![Followers:](https://img.shields.io/github/followers/owersite?style=for-the-badge&color=red)
+![Followers:](https://img.shields.io/github/followers/owersite?style=for-the-badge&color=green)
 
 
 
