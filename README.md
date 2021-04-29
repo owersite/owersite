@@ -42,21 +42,13 @@ Welcome to my github profile!
     <a href="https://github.com/owersite">
       <img src="https://img.shields.io/github/stars/owersite?color=red&logo=elixir&logoColor=red&style=for-the-badge&cacheSeconds=3600" alt="Stars"/>
     </a>
+
+
+
     
 ###### Discord: Owersite#0808 | owersite#4433
 ###### Telegram: @owersite
 
 
-<details>
-  <summary>:zap: GitHub Profile Info (clickable) </summary>
-  <h1 align="center">Profile Status</h1>
-  <details>
-    <summary>:zap: Languages (clickabe) </summary>
-  <img align="center" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owersite&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)]" />
-    </details>
-  
-  <details>
-    <summary>:zap: GitHub Status (clickable)</summary>
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=owersite&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&show_icons=true" />
-</details>
+
 
