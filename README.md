@@ -45,11 +45,9 @@ Welcome to my github profile!
 
 
 
-#### Social media:
-##### Discord: 
-###### Owersite#0808 , wisdom#4433
-##### Telegram: 
-###### <a href="https://t.me/owersite/"> owersite </a>
+##### Socials:
+###### Discord: <a href="https://raw.githubusercontent.com/owersite/owersite/master/discord1.png"> Owersite#0808 </a> , wisdom#4433
+###### Telegram: <a href="https://t.me/owersite/"> owersite </a>
 #### <a href="https://owersite.net/">My portfolio </a>
 
 
