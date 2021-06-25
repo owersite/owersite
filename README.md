@@ -45,13 +45,11 @@ Welcome to my github profile!
 
 
 
-Discord:
-###### Discord: wisdom#4433 , Owersite#0808
-###### Telegram: @owersite
+
 
  <a href="https://owersite.net/">My portfolio </a>
 
 ![Account 1](discord1.png)
 ![account 2](wisdom.png)
-Telegram:
+
 ![account 3](telegram.png)
