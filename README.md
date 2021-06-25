@@ -45,8 +45,7 @@ Welcome to my github profile!
 
 
 
-
-    
+Discord:
 ###### Discord: wisdom#4433 , Owersite#0808
 ###### Telegram: @owersite
 
