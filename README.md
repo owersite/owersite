@@ -54,3 +54,5 @@ Welcome to my github profile!
 
 ![Account 1](discord1.png)
 ![account 2](wisdom.png)
+Telegram:
+![account 3](telegram.png)
