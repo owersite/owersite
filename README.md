@@ -50,4 +50,4 @@ Welcome to my github profile!
 ###### Telegram: <a href="https://t.me/owersite/"> owersite </a>
 ##### <a href="https://owersite.net/">My portfolio </a>
 
-###### <a href="https://raw.githubusercontent.com/owersite/owersite/master/flex.gif"> Weird Flex </a>
+###### <a href="https://raw.githubusercontent.com/owersite/owersite/master/flex.gif"> Flexing </a>
