@@ -46,7 +46,7 @@ Welcome to my github profile!
 
 
 ##### Socials:
-###### Discord: xfce#0443
+###### Discord: xfce#1337
 ###### Telegram: <a href="https://t.me/owersite/"> owersite </a>
 ##### <a href="https://owersite.net/">My portfolio </a>
 
