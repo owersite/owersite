@@ -47,8 +47,9 @@ Welcome to my github profile!
 ##### Socials:
 ###### Discord: xfce#1337
 ###### Telegram: <a href="https://t.me/owersite/"> owersite </a>
+<!--
 ##### <a href="https://owersite.net/">My portfolio </a>
 
-<!--
+
 ###### <a href="https://owersite.net/weirdflex"> Flexing </a>
 -->
