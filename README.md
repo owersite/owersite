@@ -46,9 +46,7 @@ Welcome to my github profile!
 
 ##### Socials:
 ##### Discord: 
-###### Main: Owersite#7331
-![image](https://user-images.githubusercontent.com/60113773/150623271-40016b63-b613-481a-a231-4926fbcf06ee.png)
-###### Backup: Owersite#1337
+###### Owersite#0169
 ###### Telegram: <a href="https://t.me/owersite/"> owersite </a>
 <!--
 ##### <a href="https://owersite.net/">My portfolio </a>
