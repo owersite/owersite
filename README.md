@@ -47,7 +47,7 @@ Welcome to my github profile!
 ##### Socials:
 ##### Discord: 
 ###### Owersite#1337
-###### Telegram: <a href="https://t.me/gymgod/"> gym god </a>
+###### Telegram: <a href="https://t.me/gymgod/"> gymgod </a>
 <!--
 ##### <a href="https://owersite.net/">My portfolio </a>
 
